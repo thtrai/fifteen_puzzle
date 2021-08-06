@@ -13,6 +13,7 @@ https://py2.codeskulptor.org/#user47_XV4bfUhFHw_11.py
 https://py2.codeskulptor.org/#user47_XV4bfUhFHw_23.py
 https://py2.codeskulptor.org/#user47_XV4bfUhFHw_35.py
 https://py2.codeskulptor.org/#user47_XV4bfUhFHw_39.py
+https://py2.codeskulptor.org/#user47_XV4bfUhFHw_42.py
 
 
 
@@ -27,3 +28,9 @@ https://py2.codeskulptor.org/#user48_zT1ywYMIct_29.py
 https://py2.codeskulptor.org/#user48_bLKoWFuqo4_0.py
 https://py2.codeskulptor.org/#user48_bLKoWFuqo4_15.py
 https://py2.codeskulptor.org/#user48_bLKoWFuqo4_21.py
+https://py2.codeskulptor.org/#user48_bLKoWFuqo4_38.py   (fixed the move =,  instead of move +=,     in the next and final branch)
+
+
+
+#new branch for final function
+https://py2.codeskulptor.org/#user48_0CDJq4DzYU_0.py
